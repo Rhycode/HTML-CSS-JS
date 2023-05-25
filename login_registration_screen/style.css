@@ -1,0 +1,29 @@
+.container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  h1, h2 {
+    color: #333;
+  }
+  
+  input, button {
+    display: block;
+    margin: 10px auto;
+    padding: 5px;
+  }
+  
+  button {
+    width: 100px;
+  }
+  
+  .error {
+    color: red;
+  }
+  
+  .success {
+    color: green;
+  }
+  
